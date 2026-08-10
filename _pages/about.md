@@ -16,6 +16,10 @@ This is Pengjie Shen’s homepage. I am a **Ph.D. student** in **Computer Sc
 
 Publications
 ======
+- **Pengjie Shen**, Xueliang Zhang, Zhong-Qiu Wang
+*Adaptive Hard-Pair Sampling via Curriculum Learning for Speech Separation*.
+In Proc. Annual Conf. Int. Speech Communication Association (INTERSPEECH 2026).
+
 - **Pengjie Shen**, Shulin He, Xueliang Zhang, Zhong-Qiu Wang
 *LExTra: Folded Prompt and Split-Role Attention for Target Speaker Extraction*.
 In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP 2026).
